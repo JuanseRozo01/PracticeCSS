@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: azure;
+}
+#cabezera2{
+    color: black;
+}
+.text-coral{
+    color: yellowgreen;
+    text-align: left;
+}
+h1{
+    background-color: brown;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding: 40px;
+    border: 10px solid blue; 
+    width: 200px;
+    height: 160px;
+    font-size: 30px;
+}
+.text-center{
+    text-align: center;
+}
+.text-right¨{
+    text-align: right;
+
+}
+.text-justify{
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.text-danger{
+    color: brown;
+    
+}
+
+
