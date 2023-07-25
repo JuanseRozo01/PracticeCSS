@@ -1,33 +1,12 @@
-.harder{
-    background-color: red;
-    float: left;
-    height: 40px;
-    width: 200px;
+#cambios{
+    color: aquamarine;
 }
-.sidebar{
-    float: left;
-    width: 30%;
-    height: 400px;
-    background-color: khaki;
+p.puntos{
+    
 }
-.content{
-    float: left;
-    width: 75%;
-    height: 400px;
-    background-color: aquamarine;
+.big{
+    
 }
-.footer{
-    float: left;
-    width: 100%;
-    height: 50px;
-    background-color: lightcoral;
+h1, p{
+    color: red;
 }
-
-.box{
-    width: 100px;
-    height: 100px;
-    background-color: gray;
-    margin: 5px;
-    float: left;
-}
-
